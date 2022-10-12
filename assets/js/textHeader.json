@@ -1,0 +1,19 @@
+{
+    "textes": [
+        {"file": "register", "toWrite": "CRÉER UN COMPTE"},
+        {"file": "login", "toWrite": "SE CONNECTER"},
+        {"file": "pswdReset", "toWrite": "MOT DE PASSE PERDU"},
+        {"file": "confirmation", "toWrite": "CONFIRMATION"}
+    ],
+    "referant":[
+        {"file":"login","toWrite":"Vous êtes bien connecté"},
+        {"file":"register","toWrite":"Votre compte a bien été crée"},
+        {"file":"pswdReset","toWrite":"Un email vient de vous être envoye pour réinitialiser votre mot de passe."},
+        {"file":"changeItinerary","toWrite":"Votre trajet à bien été modifié!"},
+        {"file":"reservation","toWrite":"Votre message a bien été envoyé"},
+        {"file":"validation","toWrite":"Votre message a bien été envoyé"},
+        {"file":"deleteItinerary","toWrite":"Votre trajet à bien été supprimé!"},
+        {"file":"reservationCancel","toWrite":"Votre réservation a bien été annulée!"},
+        {"file":"editAccount","toWrite":"Votre compte a bien été mis à jour"}
+    ]
+}
